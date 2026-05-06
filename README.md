@@ -1,5 +1,5 @@
 ## Welcome! I'm Flora 
-**I am a 1st-year Master’s student at the University of Pennsylvania studying Systems Engineering (Data Science).**
+**I am a 1st-year Master’s student at the University of Pennsylvania studying Data Science and System Engineering.**
 
 My work lives where **business thinking** meets **analytical rigor** and **AI innovation**. I love exploring how data, paired with LLMs and modern ML systems, can uncover insights, predict behavior, and fundamentally improve how organizations operate.
 
