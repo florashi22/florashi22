@@ -1,5 +1,5 @@
 ## Welcome! I'm Flora 
-I am a 1st-year Master’s student at the University of Pennsylvania studying Data Science.
+I am a Master’s student at the University of Pennsylvania studying Data Science.
 
 I love exploring how data, paired with LLMs and modern ML models, can uncover insights, predict behavior, and fundamentally improve how organizations operate.
 
